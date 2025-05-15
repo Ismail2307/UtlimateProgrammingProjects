@@ -1,6 +1,6 @@
 ### 🕹️ **Game Development **
 
-1. Snake Game
+1. Snake Game ✅
 2. Tetris
 3. Pong
 4. Flappy Bird Clone
