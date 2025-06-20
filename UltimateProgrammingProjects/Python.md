@@ -25,7 +25,7 @@
 
 ### 🌐 **Web Development**
 
-21. Blog Website
+21. Blog Website ✅
 22. Portfolio Website
 23. URL Shortener
 24. E-commerce Store
